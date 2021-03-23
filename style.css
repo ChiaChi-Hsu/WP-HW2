@@ -24,7 +24,6 @@
         display: flex;
         margin: auto;
     }
-
     .item{
         width: 500px;
     }
@@ -35,7 +34,7 @@ p{
     text-align: center;
 }
 
-body{
+html{
     background-color: rgb(228, 240, 252);
     background-repeat: repeat;
 }
